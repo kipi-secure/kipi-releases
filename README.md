@@ -1,3 +1,5 @@
 # Kipi Releases Android
 
-A public repository for app releases
+## [Download Version 0.1 From Github](https://github.com/kipi-secure/kipi-releases-android/releases/download/0.1/kipi.apk)
+
+We are excited for the brand new release...
