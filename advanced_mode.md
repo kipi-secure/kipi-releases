@@ -1,4 +1,6 @@
-if smart connecting doesn't works for you, launch the app in advanced mode, and than:<br/>
+# advanced mode
+
+if smart connecting doesn't works for you try this: <br/>
 a. put kipi in connect mode. <br/>
 b. enter device wifi settings. <br/>
 c. connect to kipi wifi network (e,g: KIP:123456789) <br/>
